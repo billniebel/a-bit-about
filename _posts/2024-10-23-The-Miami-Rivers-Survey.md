@@ -5,7 +5,7 @@ title: The Miami Rivers Survey — the River Road in southern Montgomery County
 
 In 1802-1803 the area immediately south of where Miamisburg would soon be built was recorded in the Miami Rivers Survey (MRS).
 <figure>
-  <img src="{{site.baseurl}}/images/mc2mrs.png" alt="mc2mrs"/>
+  <img src="{{ site.baseurl }}/images/mc2mrs.png" alt="mc2mrs"/>
   <figcaption>Here, the Montgomery County Engineer's Office (MCEO) overlays a map of Montgomery County with the overlapping survey _townships_.
 </figcaption>
 </figure>
@@ -13,7 +13,7 @@ The survey term _township_ here seems largely unrelated to its use as the more u
 In terms of the Public Land Survey System (PLSS) developing at that time,
 a _township_ is typically a 6x6 mile area, containing 36 _sections_ of 1 square-mile each.
 
-We'll continue for now to look at the MRS survey _township_ labeled <img src="{{site.baseurl}}/images/image.jpg" alt="02 05 MRS"/>, which extends into Warren County and labels Franklin as an early settlement.
+We'll continue for now to look at the MRS survey _township_ labeled <img src="{{ site.baseurl }}/images/image.jpg" alt="02 05 MRS"/>, which extends into Warren County and labels Franklin as an early settlement.
 (Despite the nearby label "MIAMI TWP", survey township 02 05 MRS is not exactly governmental unit Miami Township.)
 
 We'll return below to the odd lack of uniformity in the labeling of townships on the two sides of the river.
