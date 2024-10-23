@@ -1,12 +1,12 @@
 ---
 layout: post
-title: The Miami Rivers Survey in southern Montgomery County
+title: southern Montgomery County in the Miami Rivers Survey 
 ---
 
 In 1802-1803 the area immediately south of where Miamisburg would soon be built was recorded in the Miami Rivers Survey (MRS).
 <figure>
   <img src="{{ site.baseurl }}/images/mceo-mc2mrs.png" alt="mc2mrs"/>
-  <figcaption>Here, the Montgomery County Engineer's Office (MCEO) overlays a map of Montgomery County with the overlapping survey <i>townships</i>.
+  <figcaption>Here, the Montgomery County Engineer's Office (MCEO) overlays a map of Montgomery County with the overlapping survey <i>townships</i>.  This is the innermost MCEO link listed below.
 </figcaption>
 </figure>
 The survey term _township_ here seems largely unrelated to its use as the more usual governmental division.
@@ -34,9 +34,10 @@ So MRS is an oddball among surveys and Miamisburg sits along the river separatin
 The *caveat* here is:
 don't expect the arrangement and labeling of townships to be uniform on the two sides of the Miami River! 
 
-The MCEO links below guide access to related material focusing on Montgomery County.
-
-The BLM | GLO links below have a similar interface.  There may be more included, e.g., additional scan versions and, maybe, availability (uptime).  I found the interface a bit troublesome, but the resources behind it made the trouble worthwhile.  If your browser doesn't "cut it", try another.
+Check out the links below for related material.  MCEO focuses on the area.
+BLM may have additional scan versions and, maybe, uptime.
+They have similar interfaces, which can be troublesome — e.g., clicking to zoom can be misinterpreted as beginning a grab-to-reposition, so prefer an explicit control to zoom, etc.
+And some browsers may work better than others.  However that is, the resources available make the trouble well worthwhile.
 
 # Montgomery County Engineer's Office (MCEO) Links
 
@@ -47,3 +48,6 @@ The BLM | GLO links below have a similar interface.  There may be more included,
         - [PLSS Townships](https://mceo.maps.arcgis.com/apps/View/index.html?appid=d8a8b4c8f28446f2ba40d371723c1c18)
 
 # Bureau of Land Management (BLM) Links
+- [→ Bureau of Land Management (BLM)](https://blm.gov/)
+  - [BLM (GLO Records)](https://glorecords.blm.gov))
+
