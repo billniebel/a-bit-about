@@ -1,26 +1,22 @@
 ---
 layout: post
-title: The Miami Rivers Survey — the River Road in southern Montgomery County
+title: The Miami Rivers Survey in southern Montgomery County
 ---
 
 In 1802-1803 the area immediately south of where Miamisburg would soon be built was recorded in the Miami Rivers Survey (MRS).
 <figure>
   <img src="{{ site.baseurl }}/images/mceo-mc2mrs.png" alt="mc2mrs"/>
-  <figcaption>Here, the Montgomery County Engineer's Office (MCEO) overlays a map of Montgomery County with the overlapping survey _townships_.
+  <figcaption>Here, the Montgomery County Engineer's Office (MCEO) overlays a map of Montgomery County with the overlapping survey <i>townships</i>.
 </figcaption>
 </figure>
-The survey term _township_ here seems largely unrelated to its use as the more usual governmental division — well, more usual in my experience, anyway.
+The survey term _township_ here seems largely unrelated to its use as the more usual governmental division.
 In terms of the Public Land Survey System (PLSS) developing at that time,
 a _township_ is typically a 6x6 mile area, containing 36 _sections_ of 1 square-mile each.
--
-We'll continue for now to look at the MRS survey _township_ labeled <img src="{{ site.baseurl }}/images/image.jpg" alt="02 05 MRS"/>, which extends into Warren County and labels Franklin as an early settlement.
-(Despite the nearby label "MIAMI TWP", survey township 02 05 MRS is not exactly governmental unit Miami Township.)
 
-We'll return below to the odd lack of uniformity in the labeling of townships on the two sides of the river.
+Despite the nearby label "MIAMI TWP", survey _township_ 02 05 MRS is not exactly governmental unit Miami Township.
 
-# River Road
-
-shows a river road along the east bank of the Miami River.  
+Note the odd lack of uniformity in the labeling of townships on the two sides of the river.
+Why?:  two surveys with differing methodologies.
 
 # The Miami Rivers Survey (MRS)
 
@@ -29,7 +25,7 @@ It began at the Ohio River to the south.  Two boundaries — the Greenville Trea
 (Israel Ludlow was the lead surveyor.)  
 
 The methodology used for the initial Symmes Purchase along the Ohio River arrayed neighboring townships to the east and to the west as being in the same _range_.
-This private decision was quickly superseded by developing PLSS standards used in other surveys, especially in the survey of the Congress Lands West of Miami River.
+This private decision was quickly superseded by developing PLSS standards used in other surveys, especially in the survey of the _Congress Lands West of Miami River_.
 In that survey, neighboring townships are arrayed instead to the north and to the south as being in the same _range_ — i.e., using again the same term _range_.  
 But the decision for the Symmes survey was continued northward for the rest of the MRS — the uniformity within that survey taking precedence over uniformity
 with the developing PLSS standard.
@@ -40,10 +36,7 @@ don't expect the arrangement and labeling of townships to be uniform on the two 
 
 The MCEO links below guide access to related material focusing on Montgomery County.
 
-The BLM | GLO links below have a similar interface.  There may be more included, e.g., additional scan versions and, maybe, availability.
-Browser?  Hints?
-
-![_config.yml]({{ site.baseurl }}/images/mceo-mc2mrs.png)
+The BLM | GLO links below have a similar interface.  There may be more included, e.g., additional scan versions and, maybe, availability (uptime).  I found the interface a bit troublesome, but the resources behind it made the trouble worthwhile.  If your browser doesn't "cut it", try another.
 
 # Montgomery County Engineer's Office (MCEO) Links
 
