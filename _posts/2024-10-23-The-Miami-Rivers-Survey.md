@@ -1,9 +1,9 @@
 ---
 layout: post
-title: the Miami Rivers Survey 
+title: The 1802-1803 Miami Rivers Survey (MRS) 
 ---
 
-The 1802-1803 Miami Rivers Survey (MRS) included where Miamisburg would soon afterward be built,
+… included where Miamisburg would soon afterward be built,
 and especially the land immediately south.
 <figure>
   <img src="{{ site.baseurl }}/images/mceo-mc2mrs.png" alt="mc2mrs"/>
