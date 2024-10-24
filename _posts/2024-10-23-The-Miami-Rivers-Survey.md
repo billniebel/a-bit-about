@@ -8,7 +8,7 @@ and especially the land immediately south.
 <figure>
   <img src="{{ site.baseurl }}/images/mceo-mc2mrs.png" alt="mc2mrs"/>
   <figcaption>Here, the Montgomery County Engineer's Office (MCEO) presents a map of Montgomery County
-as it is <i>now</i>, and overlays <i>survey townships</i> as they were <i>then</i> and shown in separate colors.  Link 5 below takes you directly to the active page.
+labeled with places, roads, and <i>governmental townships</i> as they are <i>now</i>, and overlays <i>survey townships</i> as they were <i>surveyed then</i> and shown in separate colors.  Link 5 below takes you directly to the active page.
   </figcaption>
 </figure>
 
@@ -17,10 +17,10 @@ The survey term _township_ here differs from its use as the more usual governmen
 In terms of the Public Land Survey System (PLSS) being developed at that time,
 a _township_ is typically a square area of land 6 miles on each side, containing 36 square _sections_ 1 mile on each side.  _Fractional sections_ accommodate irregular boundaries like rivers.
 
-Despite the nearby label "MIAMI TWP", survey _township_ 02 05 MRS does not coincide with the governmental unit Miami Township.
+So, despite the nearby label "MIAMI TWP", survey _township_ 02 05 MRS does not coincide with the governmental unit Miami Township.
 
 As we'll see below, the odd lack of uniformity in the labeling of townships on the two sides of the river
-stems from two separate surveys with differing methodologies.  This blog is to share interesting links I've found in researching this and that.  This post in particular is to prevent for you the confusion I worked through myself in rationalizing the unexpected survey differences.
+stems from two separate surveys with differing methodologies.  This blog is to share interesting links I've found in researching this and that.  This post in particular is to prevent for you the confusion I worked through myself in rationalizing those survey differences — completely unexpected for me.  As I've found out, you can get into trouble by not knowing enough about surveys.  But you can get a lot out of them by understanding just enough.
 
 # The Miami Rivers Survey (MRS)
 The methodology used for the initial Symmes Purchase along the Ohio River arrayed neighboring townships to the east and to the west as being in the same _range_.  This determined that they are in the same "row" along similar latitude and that _range_ means here east/west _row_.
