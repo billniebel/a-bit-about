@@ -65,5 +65,5 @@ However that all is, the resources made available amply repays the trouble.
 # BLM Links
 - [6 → Bureau of Land Management (BLM)](https://blm.gov/)
   - [7 BLM (GLO Records)](https://glorecords.blm.gov))
-    - [8 Survey Plats and Field Notes](https://glorecords.blm.gov/search/default.aspx?searchTabIndex=0&searchByTypeIndex=1)
+    - [8 Survey Plats and Field Notes (search page)](https://glorecords.blm.gov/search/default.aspx?searchTabIndex=0&searchByTypeIndex=1)
       - [**9 Microfilm Duplicate of MRS — Township 02, Range 05**](https://glorecords.blm.gov/details/survey/default.aspx?dm_id=388380&p_dm_id=388379&surveyDetailsTabIndex=1)  This page is essentially where link 5 above takes you after a few clicks.  I plan to go into this survey page further in the next post.  Yes, I do.  Adieu!
