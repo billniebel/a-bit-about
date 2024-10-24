@@ -8,7 +8,7 @@ and especially the land immediately south.
 <figure>
   <img src="{{ site.baseurl }}/images/mceo-mc2mrs.png" alt="mc2mrs"/>
   <figcaption>Here, the Montgomery County Engineer's Office (MCEO) presents a map of Montgomery County
-as it is _now_, and overlays <i>survey townships</i> as they were _then_ and shown in separate colors.  Link 5 below takes you directly to the active page.
+as it is <i>now</i>, and overlays <i>survey townships</i> as they were <i>then</i> and shown in separate colors.  Link 5 below takes you directly to the active page.
   </figcaption>
 </figure>
 
