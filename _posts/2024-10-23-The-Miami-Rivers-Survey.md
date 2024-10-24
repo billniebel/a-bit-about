@@ -7,7 +7,8 @@ The 1802-1803 Miami Rivers Survey (MRS) included where Miamisburg would soon aft
 and especially the land immediately south.
 <figure>
   <img src="{{ site.baseurl }}/images/mceo-mc2mrs.png" alt="mc2mrs"/>
-  <figcaption>Here, the Montgomery County Engineer's Office (MCEO) overlays a map of Montgomery County with <i>survey townships</i> shown in separate colors.  Link 5 below takes you directly to the active page.
+  <figcaption>Here, the Montgomery County Engineer's Office (MCEO) presents a map of Montgomery County
+as it is _now_, and overlays <i>survey townships</i> as they were _then_ and shown in separate colors.  Link 5 below takes you directly to the active page.
   </figcaption>
 </figure>
 
