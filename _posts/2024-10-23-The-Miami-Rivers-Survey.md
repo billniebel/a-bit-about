@@ -47,6 +47,18 @@ So MRS is an oddball among surveys and the original small town Miamisburg sits a
 The **caveat** here is:
 don't expect the arrangement and labeling of townships to be uniform on the two sides of the Miami River! 
 
+So 02 05 MRS decodes to "range 5 counting up from the Ohio River, township 2 counting east from the Great Miami River
+in the MRS survey"
+ — but missing in some ranges some beginning township numbers, in an effort to align the township numbers in different ranges.
+ 
+Yet its neighbor 02 05 EAST, west across the river and in another survey,
+decodes differently to "range 5 counting EAST from the survey's Prime Meridian, 
+township 2 counting north from the Great Miami River"
+with the survey for _Congress Lands West of Miami River_ having its Prime Meridian the Ohio/Indiana border.
+
+As they say on the TV, "you can't make this stuff up!"  But you can get it wrong.
+Be careful to know enough.  And put it to use!
+
 Check out the links below to explore related material.  You will be rewarded!
 
 MCEO focuses on Montgomery County and so it's easier to find local material.  
@@ -60,10 +72,10 @@ However that all is, the resources made available amply repays the trouble.
   - [2 Departments](https://engineer.mcohio.org/departments/)
     - [3 GIS](https://engineer.mcohio.org/departments/gis/)
       - [4 → Historic Maps & Apps](https://mceo.maps.arcgis.com/apps/PublicGallery/index.html?appid=d1f1db5bcc6f498387da22aa056ce59f)
-        - [**5 PLSS Townships**](https://mceo.maps.arcgis.com/apps/View/index.html?appid=d8a8b4c8f28446f2ba40d371723c1c18)  From this page, clicking on a _township_ brings up a GIS image viewer of scans of the original survey pages. 
+        - [**5 PLSS Townships**](https://mceo.maps.arcgis.com/apps/View/index.html?appid=d8a8b4c8f28446f2ba40d371723c1c18)  From this page, clicking on a _township_ pops up a dialog box.  Probably on its 2nd page click on Survey Plot to bring up a GIS image viewer of scans of that original survey page.  (If this gives trouble, try link 9 below to go directly to one of the scan pages for 02 05 MRS.  Or try link 8 to search for another township or even another survey.) 
 
 # BLM Links
 - [6 → Bureau of Land Management (BLM)](https://blm.gov/)
   - [7 BLM (GLO Records)](https://glorecords.blm.gov))
-    - [8 Survey Plats and Field Notes (search page)](https://glorecords.blm.gov/search/default.aspx?searchTabIndex=0&searchByTypeIndex=1)
+    - [8 Survey Plats and Field Notes (search page)](https://glorecords.blm.  gov/search/default.aspx?searchTabIndex=0&searchByTypeIndex=1)
       - [**9 Microfilm Duplicate of MRS — Township 02, Range 05**](https://glorecords.blm.gov/details/survey/default.aspx?dm_id=388380&p_dm_id=388379&surveyDetailsTabIndex=1)  This page is essentially where link 5 above takes you after a few clicks.  I plan to go into this survey page further in the next post.  Yes, I do.  Adieu!
