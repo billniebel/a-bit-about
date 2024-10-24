@@ -72,10 +72,16 @@ However that all is, the resources made available amply repays the trouble.
   - [2 Departments](https://engineer.mcohio.org/departments/)
     - [3 GIS](https://engineer.mcohio.org/departments/gis/)
       - [4 → Historic Maps & Apps](https://mceo.maps.arcgis.com/apps/PublicGallery/index.html?appid=d1f1db5bcc6f498387da22aa056ce59f)
-        - [**5 PLSS Townships**](https://mceo.maps.arcgis.com/apps/View/index.html?appid=d8a8b4c8f28446f2ba40d371723c1c18)  From this page, clicking on a _township_ pops up a dialog box.  Probably on its 2nd page click on Survey Plot to bring up a GIS image viewer of scans of that original survey page.  (If this gives trouble, try link 9 below to go directly to one of the scan pages for 02 05 MRS.  Or try link 8 to search for another township or even another survey.) 
+        - [**5 PLSS Townships**](https://mceo.maps.arcgis.com/apps/View/index.html?appid=d8a8b4c8f28446f2ba40d371723c1c18)  
+<br/>This page holds an actual, active image, from which the screenshot above, the first image, was cropped.
+On this page, clicking on a _township_ pops up a small dialog box.  It has itself several pages.  On its page 2 maybe, click on _Survey Plot_ to bring up a GIS image viewer of scans of that original survey page.
+<br/>(Sometimes for me, the image scan doesn't display, even after refresh.  Try link 9 below to go directly to one of the scan pages for 02 05 MRS.  Or try link 8 to search for another township or even another survey.
+The point really is that BLM|GLO seems to work even when MCEO is glitchy.) 
 
 # BLM Links
 - [6 → Bureau of Land Management (BLM)](https://blm.gov/)
   - [7 BLM (GLO Records)](https://glorecords.blm.gov))
     - [8 Survey Plats and Field Notes (search page)](https://glorecords.blm.  gov/search/default.aspx?searchTabIndex=0&searchByTypeIndex=1)
-      - [**9 Microfilm Duplicate of MRS — Township 02, Range 05**](https://glorecords.blm.gov/details/survey/default.aspx?dm_id=388380&p_dm_id=388379&surveyDetailsTabIndex=1)  This page is essentially where link 5 above takes you after a few clicks.  I plan to go into this survey page further in the next post.  Yes, I do.  Adieu!
+      - [**9 Microfilm Duplicate of MRS — Township 02, Range 05**](https://glorecords.blm.gov/details/survey/default.aspx?dm_id=388380&p_dm_id=388379&surveyDetailsTabIndex=1)
+<br/>This page is essentially where link 5 above takes you after a few clicks starting at that _township_.
+<br/>I plan to discuss that survey page in the next post.  Yes, I do.  Adieu!
