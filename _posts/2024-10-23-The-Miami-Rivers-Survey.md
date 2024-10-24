@@ -1,21 +1,24 @@
 ---
 layout: post
-title: southern Montgomery County in the Miami Rivers Survey 
+title: the Miami Rivers Survey 
 ---
 
-In 1802-1803 the area immediately south of where Miamisburg would soon be built was recorded in the Miami Rivers Survey (MRS).
+The 1802-1803 Miami Rivers Survey (MRS) included where Miamisburg would soon afterward be built,
+and especially the land immediately south.
 <figure>
   <img src="{{ site.baseurl }}/images/mceo-mc2mrs.png" alt="mc2mrs"/>
-  <figcaption>Here, the Montgomery County Engineer's Office (MCEO) overlays a map of Montgomery County with the overlapping survey <i>townships</i>.  This is the innermost MCEO link listed below.
-</figcaption>
+  <figcaption>Here, the Montgomery County Engineer's Office (MCEO) overlays a map of Montgomery County with overlapping survey <i>townships</i>.  Link 4 below takes you to the active page.
+  </figcaption>
 </figure>
+
+# Townships in the Public Land Survey System (PLSS)
 The survey term _township_ here seems largely unrelated to its use as the more usual governmental division.
 In terms of the Public Land Survey System (PLSS) developing at that time,
-a _township_ is typically a 6x6 mile area, containing 36 _sections_ of 1 square-mile each.
+a _township_ is typically a square area of land 6 miles on each side, containing 36 square _sections_ 1 mile on each side.
 
-Despite the nearby label "MIAMI TWP", survey _township_ 02 05 MRS is not exactly governmental unit Miami Township.
+Despite the nearby label "MIAMI TWP", survey _township_ 02 05 MRS does not coincide with the governmental unit Miami Township.
 
-Note the odd lack of uniformity in the labeling of townships on the two sides of the river.
+Looking a bit ahead:  notice the odd lack of uniformity in the labeling of townships on the two sides of the river.
 Why?:  two surveys with differing methodologies.
 
 # The Miami Rivers Survey (MRS)
@@ -39,7 +42,7 @@ BLM may have additional scan versions and, maybe, uptime.
 They have similar interfaces, which can be troublesome — e.g., clicking to zoom can be misinterpreted as beginning a grab-to-reposition, so prefer an explicit control to zoom, etc.
 And some browsers may work better than others.  However that is, the resources available make the trouble well worthwhile.
 
-# Montgomery County Engineer's Office (MCEO) Links
+# MCEO Links
 
 - [→ Montgomery County Engineer's Office (MCEO)](https://engineer.mcohio.org/)
   - [Departments](https://engineer.mcohio.org/departments/)
@@ -47,7 +50,8 @@ And some browsers may work better than others.  However that is, the resources a
       - [→ Historic Maps & Apps](https://mceo.maps.arcgis.com/apps/PublicGallery/index.html?appid=d1f1db5bcc6f498387da22aa056ce59f)
         - [PLSS Townships](https://mceo.maps.arcgis.com/apps/View/index.html?appid=d8a8b4c8f28446f2ba40d371723c1c18)
 
-# Bureau of Land Management (BLM) Links
+# BLM Links
 - [→ Bureau of Land Management (BLM)](https://blm.gov/)
   - [BLM (GLO Records)](https://glorecords.blm.gov))
-
+    - [Survey Plats and Field Notes](https://glorecords.blm.gov/search/default.aspx?searchTabIndex=0&searchByTypeIndex=1)
+      - [Microfilm Duplicate of MRS — Township 02, Range 05](https://glorecords.blm.gov/details/survey/default.aspx?dm_id=388380&p_dm_id=388379&surveyDetailsTabIndex=1)
