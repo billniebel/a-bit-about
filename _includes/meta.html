@@ -10,9 +10,16 @@
     <meta name="description" content="{{ site.description }}">
     <meta property="og:description" content="{{ site.description }}" />
     {% endif %}
-    <meta name="author" content="{{ site.name }}" />
+
+    <!-- https://stackoverflow.com/questions/74188444/what-site-variables-can-i-use-github-pages
+        lists variables to use in markdown, used in changes in current commit.
+        it extracts from
+        https://github.com/jekyll/github-metadata/blob/main/docs/site.github.md
+    -->
+
+    <meta name="author" content="{{ owner.name }}" />
 
     {% if page.title %}
-    <meta property="og:title" content="{{ page.title }}" />
-    <meta property="twitter:title" content="{{ page.title }}" />
+    <meta property="og:title" content="{{ site.name }} {{ page.title }}" />
+    <meta property="twitter:title" content="{{ site.name }} {{ page.title }}" />
     {% endif %}
