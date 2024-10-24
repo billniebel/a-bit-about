@@ -35,17 +35,13 @@ The Miami Rivers Survey (MRS) recorded land between the Great Miami River to the
 It began at the Ohio River to the south.  Two boundaries — the Greenville Treaty Line and the Ludlow Line — form the survey's northeast corner near Bellefontaine. 
 (Israel Ludlow was the lead surveyor.)
 
-<figure>
-  <img src="{{ site.baseurl }}/images/mceo-mc2mrs.png" alt="mc2mrs"/>
-  <figcaption>Link X below shows the two neighboring surveys.
-  </figcaption>
-</figure>
-
 So MRS is an oddball among surveys and Miamisburg sits along the river separating opposing layouts and terminology.
 The **caveat** here is:
 don't expect the arrangement and labeling of townships to be uniform on the two sides of the Miami River! 
 
-Check out the links below to explore related material.  MCEO focuses on Montgomery County
+Check out the links below to explore related material.  You will be rewarded!
+
+MCEO focuses on Montgomery County
 and so it's easier to find local material.  But BLM may have additional scan versions and, maybe I think, more dependable uptime.
 Their underlying interface is the same, and that interface can be troublesome — e.g., clicking to zoom can be misinterpreted as beginning a grab-to-reposition — or is it the other way around?  I began to prefer using the explicit controls to zoom or to move the image, to full-screen the view, etc.  And some browsers may work better than others.
 However that all is, the resources made available amply repays the trouble.
@@ -55,10 +51,10 @@ However that all is, the resources made available amply repays the trouble.
   - [2 Departments](https://engineer.mcohio.org/departments/)
     - [3 GIS](https://engineer.mcohio.org/departments/gis/)
       - [4 → Historic Maps & Apps](https://mceo.maps.arcgis.com/apps/PublicGallery/index.html?appid=d1f1db5bcc6f498387da22aa056ce59f)
-        - [**5 PLSS Townships**](https://mceo.maps.arcgis.com/apps/View/index.html?appid=d8a8b4c8f28446f2ba40d371723c1c18)  Clicking on a _township_ here brings up a GIS image viewer of scans of the original survey pages. 
+        - [**5 PLSS Townships**](https://mceo.maps.arcgis.com/apps/View/index.html?appid=d8a8b4c8f28446f2ba40d371723c1c18)  From this page, clicking on a _township_ brings up a GIS image viewer of scans of the original survey pages. 
 
 # BLM Links
 - [6 → Bureau of Land Management (BLM)](https://blm.gov/)
   - [7 BLM (GLO Records)](https://glorecords.blm.gov))
     - [8 Survey Plats and Field Notes](https://glorecords.blm.gov/search/default.aspx?searchTabIndex=0&searchByTypeIndex=1)
-      - [**9 Microfilm Duplicate of MRS — Township 02, Range 05**](https://glorecords.blm.gov/details/survey/default.aspx?dm_id=388380&p_dm_id=388379&surveyDetailsTabIndex=1)  This is essentially where link 5 above takes you after a couple clicks.  I plan to go into survey page further in the next post.  I do.  Adieu!
+      - [**9 Microfilm Duplicate of MRS — Township 02, Range 05**](https://glorecords.blm.gov/details/survey/default.aspx?dm_id=388380&p_dm_id=388379&surveyDetailsTabIndex=1)  This page is essentially where link 5 above takes you after a few clicks.  I plan to go into this survey page further in the next post.  I do.  Adieu!
