@@ -8,42 +8,51 @@ and especially the land immediately south.
 <figure>
   <img src="{{ site.baseurl }}/images/mceo-mc2mrs.png" alt="mc2mrs"/>
   <figcaption>Here, the Montgomery County Engineer's Office (MCEO) presents a map of Montgomery County
-labeled with places, roads, and <i>governmental townships</i> as they are <i>now</i>, and overlays <i>survey townships</i> as they were <i>surveyed then</i> and shown in separate colors.  Link 5 below takes you directly to the active page.
+labeled with places, roads, and <i>governmental townships</i> as they are <i>now</i>, and overlays <i>survey townships</i> as they were <i>surveyed then</i> and shown in separate colors.  Link 5 below takes you directly to the actual, active page.
   </figcaption>
 </figure>
 
 # PLSS Townships
 The survey term _township_ here differs from its use as the more usual governmental division.
-In terms of the Public Land Survey System (PLSS) being developed at that time,
+In terms of the Public Land Survey System (PLSS) being developed in the early 1800s,
 a _township_ is typically a square area of land 6 miles on each side, containing 36 square _sections_ 1 mile on each side.  _Fractional sections_ accommodate irregular boundaries like rivers.
 
 So, despite the nearby label "MIAMI TWP", survey _township_ 02 05 MRS does not coincide with the governmental unit Miami Township.
 
-As we'll see below, the odd lack of uniformity in the labeling of townships on the two sides of the river
-stems from two separate surveys with differing methodologies.  This blog is to share interesting links I've found in researching this and that.  This post in particular is to prevent for you the confusion I worked through myself in rationalizing those survey differences — completely unexpected for me.  As I've found out, you can get into trouble by not knowing enough about surveys.  But you can get a lot out of them by understanding just enough.
+As we'll see below, the odd lack of uniformity in the labeling of townships on the two sides of the Miami River
+stems from two separate surveys made with differing methodologies.  This blog is to share interesting links I've found in researching my hometown.  This post in particular is to prevent for you the confusion I worked through myself in rationalizing those survey differences — completely unexpected for me.  As I've found out, you can get into trouble by not knowing enough about surveys.  But you can get a lot out of them by understanding just enough.
+
+Another fine yin-yang I've gotten myself into, Ollie!
 
 # The Miami Rivers Survey (MRS)
-The methodology used for the initial Symmes Purchase along the Ohio River arrayed neighboring townships to the east and to the west as being in the same _range_.  This determined that they are in the same "row" along similar latitude and that _range_ means here east/west _row_.
-This private decision was quickly superseded by developing PLSS standards used in other surveys, especially in the survey of the _Congress Lands West of Miami River_.
+Enter the survey defined between 2 similarly-named rivers.
 
-That _Congress Lands West of Miami River_ survey arrayed instead neighboring townships to the north and to the south as being in the same _range_ — i.e., using again confusingly the same term _range_.
-This determined that they are in the same "column" along similar longitude
-and that _range_ means here instead north/south _column_.
+The methodology used for the initial Symmes Purchase along the Ohio River arrayed neighboring townships to the east and to the west as being in the same _range_.
+This determined that they are in the same "row" along similar latitude and that _range_ means here east/west _row_.
+This private decision was quickly superseded by developing PLSS standards used in other surveys.
 But the decision for the Symmes survey was continued northward for the rest of the MRS — the uniformity within that MRS survey taking precedence over uniformity with the developing PLSS standard.
 
-The Miami Rivers Survey (MRS) recorded land between the Great Miami River to the west and the Little Miami River to the east.
-It began at the Ohio River to the south.  Two boundaries — the Greenville Treaty Line and the Ludlow Line — form the survey's northeast corner near Bellefontaine. 
+The MRS recorded land between the Great Miami River to the west and the Little Miami River to the east.
+It began with the Symmes survey at the Ohio River and continued to the north.  Two boundaries — the Greenville Treaty Line and the Ludlow Line — form the survey's northeast corner near Bellefontaine. 
 (Israel Ludlow was the lead surveyor.)
 
-So MRS is an oddball among surveys and Miamisburg sits along the river separating opposing layouts and terminology.
+Enter yet another survey, one defined with one of those rivers — the one to the west — as its eastern boundary,
+the survey of the _Congress Lands West of Miami River_
+
+That survey arrayed instead neighboring townships to the north and to the south as being in the same _range_ — i.e., using again, but confusingly differently, the same term _range_.
+This determined that they are in the same "column" along similar longitude
+and that _range_ means here instead north/south _column_.
+
+So MRS is an oddball among surveys and the original small town Miamisburg sits along the river separating opposing layouts and is just within the scope of the one-off terminology.
 The **caveat** here is:
 don't expect the arrangement and labeling of townships to be uniform on the two sides of the Miami River! 
 
 Check out the links below to explore related material.  You will be rewarded!
 
-MCEO focuses on Montgomery County
-and so it's easier to find local material.  But BLM may have additional scan versions and, maybe I think, more dependable uptime.
-Their underlying interface is the same, and that interface can be troublesome — e.g., clicking to zoom can be misinterpreted as beginning a grab-to-reposition — or is it the other way around?  I began to prefer using the explicit controls to zoom or to move the image, to full-screen the view, etc.  And some browsers may work better than others.
+MCEO focuses on Montgomery County and so it's easier to find local material.  
+But BLM may have additional scan versions and, maybe I think, more dependable uptime.
+Their underlying interface is the same, and that interface can be troublesome — e.g., clicking to zoom can be misinterpreted as beginning a grab-to-reposition — or is it the other way around?  I began to prefer using the explicit controls to zoom or to move the image, or to full-screen the view, etc.  And some browsers may work better than others.  Woe is us!
+
 However that all is, the resources made available amply repays the trouble.
 
 # MCEO Links
@@ -57,4 +66,4 @@ However that all is, the resources made available amply repays the trouble.
 - [6 → Bureau of Land Management (BLM)](https://blm.gov/)
   - [7 BLM (GLO Records)](https://glorecords.blm.gov))
     - [8 Survey Plats and Field Notes](https://glorecords.blm.gov/search/default.aspx?searchTabIndex=0&searchByTypeIndex=1)
-      - [**9 Microfilm Duplicate of MRS — Township 02, Range 05**](https://glorecords.blm.gov/details/survey/default.aspx?dm_id=388380&p_dm_id=388379&surveyDetailsTabIndex=1)  This page is essentially where link 5 above takes you after a few clicks.  I plan to go into this survey page further in the next post.  I do.  Adieu!
+      - [**9 Microfilm Duplicate of MRS — Township 02, Range 05**](https://glorecords.blm.gov/details/survey/default.aspx?dm_id=388380&p_dm_id=388379&surveyDetailsTabIndex=1)  This page is essentially where link 5 above takes you after a few clicks.  I plan to go into this survey page further in the next post.  Yes, I do.  Adieu!
