@@ -1,10 +1,7 @@
 ---
 layout: post
-title: The 1802-1803 Miami Rivers Survey (MRS) 
+title: River Road 
 ---
-
-… included where Miamisburg would soon afterward be built,
-and especially the land immediately south.
 
 This blog is to share interesting links I've found in researching my hometown.
 This post in particular looks at the first north-south road through Miamisburg
@@ -20,8 +17,7 @@ Click this image — or the equivalent link 5 below — to go directly to the ac
   </figcaption>
 </figure>
 
-<a href="{{ site.baseurl }}/surveys.html"
->Click here for more explanation of the surveys represented on this map.</a>
+<a href='{{ site.baseurl }}/surveys.html'>Click here for more explanation of the surveys represented on this map.</a>
 
 Let's focus here on the yellow area at middle bottom of this map, which is now south of Miamisburg.
 
@@ -40,6 +36,9 @@ Notice that these labels have a similar format on either side of the Miami River
 but have different formats on the two sides.  (More on this soon.)
 
 labeled with places, roads, and <i>governmental townships</i> as they are <i>now</i>, and overlays <i>survey townships</i> as they were <i>surveyed then</i> and shown in separate colors.  
+
+… included where Miamisburg would soon afterward be built,
+and especially the land immediately south.
 
 # PLSS Townships
 The survey term _township_ here differs from its use as the more usual governmental division.
