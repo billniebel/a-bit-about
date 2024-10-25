@@ -8,15 +8,27 @@ and especially the land immediately south.
 
 This blog is to share interesting links I've found in researching my hometown.
 This post in particular looks at the first north-south road through Miamisburg
-using as lens the original survey done before the town was platted.
+using as lens the original survey done in 1802-1803, before the town was platted.
 
 <figure>
   <img src="{{ site.baseurl }}/images/mceo-mc2mrs.png" alt="mc2mrs"/>
   <figcaption>Here, the Montgomery County Engineer's Office (MCEO) combines current features of Montgomery County
-with an overlay showing divisions of two original surveys from the very early 1800s.
+with an overlay showing the two original surveys from the very early 1800s.
 Link 5 below takes you directly to the actual, active page.
   </figcaption>
 </figure>
+
+A bit of explanation.
+The solid black line shows the Montgomery County border.
+The variously colored jigsaw puzzle pieces 
+are the townships as surveyed
+any part of which overlap Montgomery County.
+These are labeled in yellow bordered in black.
+Notice that these labels have a similar format on either side of the Miami River
+but have different formats on the two sides.  (More on this soon.)
+Administrative townships are labeled only approximately in solid black,
+but without borders.
+To be clear, there's no certain connection between the survey and administrative townships.
 
 labeled with places, roads, and <i>governmental townships</i> as they are <i>now</i>, and overlays <i>survey townships</i> as they were <i>surveyed then</i> and shown in separate colors.  
 
