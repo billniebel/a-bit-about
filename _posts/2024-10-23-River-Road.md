@@ -11,34 +11,31 @@ using as lens the original survey done in 1802-1803, before the town was platted
   <a href='https://mceo.maps.arcgis.com/apps/View/index.html?appid=d8a8b4c8f28446f2ba40d371723c1c18'>
     <img src="{{ site.baseurl }}/images/mceo-mc2mrs.png" alt="mc2mrs"/>
   </a>
-  <figcaption>With this map, the Montgomery County Engineer's Office (MCEO) combines current features of Montgomery County
+  <figcaption>In this map, the Montgomery County Engineer's Office (MCEO) combines current features of Montgomery County
 with an overlay showing the two original surveys from the very early 1800s.
-Click this image — or the equivalent link 5 below — to go directly to the actual, active page.
+Click this screenshot — or the equivalent link 5 below — to go directly to its actual, active page.
   </figcaption>
 </figure>
 
-<a href='{{ site.baseurl }}/_posts/2024-10-25-surveys.html'>Click here for more explanation of the surveys represented on this map.</a>
-
-Let's focus here on the yellow area at middle bottom of this map, which is now south of Miamisburg.
-
-A bit of explanation.
+In way of understanding this quicker:
 The solid black line shows the Montgomery County border.
+Two different surveys covered more than just 
+Montgomery County was included in two different surveys,
+one of either side of the Miami River.
+Survey townships don't coincide exactly with today's administrative townships within the county.
 The variously colored jigsaw puzzle pieces 
-are the townships as surveyed
-any part of which overlap Montgomery County.
+are the townships as surveyed,
+with only those shown as needed to color code the county map.
 These are labeled in yellow bordered in black.
 Today's Montgomery County administrative/governmental townships are labeled only approximately in solid black,
 but their borders aren't shown.
 To be clear, there's no certain connection between the survey and administrative townships.
 
+Let's focus here on the yellow area at middle bottom of this map, which is now south of Miamisburg. 
 
-Notice that these labels have a similar format on either side of the Miami River
-but have different formats on the two sides.  (More on this soon.)
-
-labeled with places, roads, and <i>governmental townships</i> as they are <i>now</i>, and overlays <i>survey townships</i> as they were <i>surveyed then</i> and shown in separate colors.  
-
-… included where Miamisburg would soon afterward be built,
-and especially the land immediately south.
+(Notice that these labels have a similar format on either side of the Miami River
+but have different formats on the two sides. More on those surveys in 
+<a href='{{ site.baseurl }}/_posts/2024-10-25-surveys.html'>the next blog post</a>.)
 
 # PLSS Townships
 The survey term _township_ here differs from its use as the more usual governmental division.
