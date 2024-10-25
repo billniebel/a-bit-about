@@ -17,7 +17,7 @@ Click this image — or the equivalent link 5 below — to go directly to the ac
   </figcaption>
 </figure>
 
-<a href='{{ site.baseurl }}/surveys.html'>Click here for more explanation of the surveys represented on this map.</a>
+<a href='{{ site.baseurl }}/_posts/2024-10-25-surveys.html'>Click here for more explanation of the surveys represented on this map.</a>
 
 Let's focus here on the yellow area at middle bottom of this map, which is now south of Miamisburg.
 
