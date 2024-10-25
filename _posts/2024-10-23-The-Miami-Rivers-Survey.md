@@ -5,24 +5,36 @@ title: The 1802-1803 Miami Rivers Survey (MRS)
 
 … included where Miamisburg would soon afterward be built,
 and especially the land immediately south.
+
+This blog is to share interesting links I've found in researching my hometown.
+This post in particular looks at the first north-south road through Miamisburg
+using as lens the original survey done before the town was platted.
+
 <figure>
   <img src="{{ site.baseurl }}/images/mceo-mc2mrs.png" alt="mc2mrs"/>
-  <figcaption>Here, the Montgomery County Engineer's Office (MCEO) presents a map of Montgomery County
-labeled with places, roads, and <i>governmental townships</i> as they are <i>now</i>, and overlays <i>survey townships</i> as they were <i>surveyed then</i> and shown in separate colors.  Link 5 below takes you directly to the actual, active page.
+  <figcaption>Here, the Montgomery County Engineer's Office (MCEO) combines current features of Montgomery County
+with an overlay showing divisions of two original surveys from the very early 1800s.
+Link 5 below takes you directly to the actual, active page.
   </figcaption>
 </figure>
 
+labeled with places, roads, and <i>governmental townships</i> as they are <i>now</i>, and overlays <i>survey townships</i> as they were <i>surveyed then</i> and shown in separate colors.  
+
 # PLSS Townships
 The survey term _township_ here differs from its use as the more usual governmental division.
-In terms of the Public Land Survey System (PLSS) being developed in the early 1800s,
+
+
+is to prevent for you the confusion I worked through myself in rationalizing those survey differences — completely unexpected for me.  As I've found out, you can get into trouble by not knowing enough about surveys.  But you can get a lot out of them by understanding just enough.
+
+(Another fine yin-yang I've gotten myself into, Ollie!)
+
+The odd lack of uniformity in the labeling of townships on the two sides of the Miami River
+stems from two separate surveys made with differing methodologies.
+
+In the Public Land Survey System (PLSS) being developed in the early 1800s,
 a _township_ is typically a square area of land 6 miles on each side, containing 36 square _sections_ 1 mile on each side.  _Fractional sections_ accommodate irregular boundaries like rivers.
 
 So, despite the nearby label "MIAMI TWP", survey _township_ 02 05 MRS does not coincide with the governmental unit Miami Township.
-
-As we'll see below, the odd lack of uniformity in the labeling of townships on the two sides of the Miami River
-stems from two separate surveys made with differing methodologies.  This blog is to share interesting links I've found in researching my hometown.  This post in particular is to prevent for you the confusion I worked through myself in rationalizing those survey differences — completely unexpected for me.  As I've found out, you can get into trouble by not knowing enough about surveys.  But you can get a lot out of them by understanding just enough.
-
-Another fine yin-yang I've gotten myself into, Ollie!
 
 # The Miami Rivers Survey (MRS)
 Enter the survey defined between 2 similarly-named rivers.
@@ -66,6 +78,27 @@ But BLM may have additional scan versions and, maybe I think, more dependable up
 Their underlying interface is the same, and that interface can be troublesome — e.g., clicking to zoom can be misinterpreted as beginning a grab-to-reposition — or is it the other way around?  I began to prefer using the explicit controls to zoom or to move the image, or to full-screen the view, etc.  And some browsers may work better than others.  Woe is us!
 
 However that all is, the resources made available amply repays the trouble.
+
+<figure>
+  <a href='https://books.google.com/books?id=r-jSAAAAMAAJ&pg=RA1-PA93#v=onepage&q&f=false'>
+    <img src="{{ site.baseurl }}/images/wiki-2surveys.png" alt="wiki-2surveys"/>
+  </a>
+  <figcaption>
+    <br/>from page 93
+  </figcaption>
+</figure>
+reference PLSS norm (west of) vs MRS page 89 reference
+
+"OHIO STATE MAP REFERENCES" begin at page 92
+"MIAMI VALLEY TRACT" at page 107 "Surveyed from Great Miami River Meridian"
+
+explained on page 108
+sectioning at page 109, diagram 40 "BETWEEN THE GREAT AND LITTLE MIAMI RIVER"
+
+"SOUTHWESTERN AND NORTHWESTERN OHIO" at page 113 "Surveyed from First Principal Meridian"
+explained on page 114
+sectioning at page 112, diagram 41 "SOUTHWESTERN OHIO"
+
 
 # MCEO Links
 - [1 → Montgomery County Engineer's Office (MCEO)](https://engineer.mcohio.org/)
